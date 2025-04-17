@@ -1,0 +1,49 @@
+
+74LS32 OR		SN 74LS32N TEX
+https://www.reichelt.de/de/de/shop/suche/SN%2074LS32N%20TEX?GROUPINDEX=0&search=SN+74LS32N+TEX
+
+74LS05 Inverter
+74LS08 And
+74LS86 XOR
+
+
+Bananenbuchse
+
+Bohrloch 8mm
+Außendurchmesser 10.4
+
+Schwarz	5
+Rot		5
+
+Gelb	13 (input)
+Blau	10
+Grün	10 (output)
+
+https://www.reichelt.de/de/de/shop/produkt/bananenbuchse_4mm_vollisoliert_schwarz-4897
+
+
+https://www.reichelt.de/de/de/shop/produkt/wannenstecker_6-polig_gerade-85732
+https://www.reichelt.de/de/de/shop/produkt/pfosten-verbinder_2x3-pol_kontakte_vergoldet-235694
+
+https://www.reichelt.de/de/de/shop/produkt/wannenstecker_10-polig_gerade-22816
+https://www.reichelt.de/de/de/shop/produkt/pfostenbuchse_10-polig_mit_zugentlastung-14571
+
+
+
+-----------------------------------------------------------
+
+------------- Bananenbuchse
+
+Bohrloch 8mm
+Außendurchmesser 10.4
+
+
+------------- LED Einbau Fassung
+Bohrloch 8mm
+Außendurchmesser ?? ca 10mm
+
+------------- Taster
+
+------------- Schalter
+
+------------- DC Jack
